@@ -12,4 +12,8 @@ In this study, participants were asked to play a computer game with the upper-li
 ### Aim
 Thus, the aim of this study is to determine if *both* cognitive and motor skills can be learnt using exergames with haptic interventions. 
 
+| notebook                    | description |
+|-----------------------------|--------------|
+| extract_data_one_svc        | extract data of one trial        |
+| extract_data_grp_svc        | extract data and summarise across several trials of one patient        |
 
