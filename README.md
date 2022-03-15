@@ -12,8 +12,17 @@ In this study, participants were asked to play a computer game with the upper-li
 ### Aim
 Thus, the aim of this study is to determine if *both* cognitive and motor skills can be learnt using exergames with haptic interventions. 
 
+**Metrics of interest**
+A service event is defined as the start of the customer order till order delivery by the participant. The basic metrics to determine the performance of the participant are: 
+- mean speed of movement 
+- mean total collision
+- mean error rate 
+
+
 | notebook                    | description |
 |-----------------------------|--------------|
 | extract_data_one_svc        | extract data of one trial        |
 | extract_data_grp_svc        | extract data and summarise across several trials of one patient        |
+
+
 
