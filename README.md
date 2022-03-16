@@ -7,7 +7,7 @@ Dual-task training during therapy have tradionally been performed face-to-face d
 
 In this study, participants were asked to play a computer game with the upper-limb H-MAN robot (with haptic feedback). The game represents a flower shop in which the partipants were required to serve a number of customers by retrieving the required item (plant/flower) from a shelf and delivering it to the correct customer. There are two aspects to this exergame:
 - **cognitive** task in which the participant is required to remember the item ordered, as well as the sequence in which the customers arrived.
-- **motor** task in which the partipant is required to navigate around the flower shop without colliding with shelves or objects placed through the shop.
+- **motor** task in which the partipant is required to navigate around the flower shop without colliding with shelves or objects placed throughout the shop.
 
 ### Aim
 Thus, the aim of this study is to determine if *both* cognitive and motor skills can be learnt using exergames with haptic interventions. 
@@ -19,10 +19,10 @@ Thus, the aim of this study is to determine if *both* cognitive and motor skills
 - mean error rate 
 
 
-| notebook                    | description |
-|-----------------------------|--------------|
-| extract_data_one_svc        | extract data of one trial        |
-| extract_data_grp_svc        | extract data and summarise across several trials of one patient        |
+| notebook                | description |
+|-------------------------|--------------|
+| extract_data_one        | extract data of one trial        |
+| extract_data_grp        | extract data and summarise across several trials of one patient        |
 
 
 
