@@ -23,6 +23,7 @@ Thus, the aim of this study is to determine if *both* cognitive and motor skills
 |-------------------------|--------------|
 | extract_data_one        | extract data of one trial        |
 | extract_data_grp        | extract data and summarise across several trials of one patient        |
+| [Tableau](https://public.tableau.com/app/profile/sook.yee/viz/ARISE_GERI_sample_participant/Dashboard?publish=yes)        | sample dashboard of one participant      |
 
 
 
