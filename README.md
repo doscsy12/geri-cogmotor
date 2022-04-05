@@ -9,7 +9,7 @@ In this study, participants were asked to play a computer game with the upper-li
 - **cognitive** task in which the participant is required to remember the item ordered, as well as the sequence in which the customers arrived.
 - **motor** task in which the participant is required to navigate around the flower shop without colliding with shelves or objects placed throughout the shop.
 
-#### Protocol
+### Protocol
 All participants will undergo:
 1. initial assessment: play the exergame with zero haptic intervention (ie., no assistance, no challenge)
 2. trial period: play the exergame with haptic intervention (errorful/errorless mode)
