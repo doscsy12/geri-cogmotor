@@ -9,8 +9,15 @@ In this study, participants were asked to play a computer game with the upper-li
 - **cognitive** task in which the participant is required to remember the item ordered, as well as the sequence in which the customers arrived.
 - **motor** task in which the participant is required to navigate around the flower shop without colliding with shelves or objects placed throughout the shop.
 
+#### Protocol
+All participants will:
+1. play the exergame with zero haptic intervention (ie., no assistance, no challenge), also known as 'initial assessment'
+<br> 2. play the exergame with haptic intervention (errorful/errorless mode) (aka trial period)
+<br> 3. play the exergame with zero haptic intervention, also known as 'final assessment'
+<br> Initial and final assessments will be compared to determine any motor or cognitive improvements. 
+
 ### Aim
-Thus, the aim of this study is to determine if *both* cognitive and motor skills can be learnt using exergames with haptic interventions. 
+Thus, one objective here is to investigate the effect of a single haptic intervention in an exergame that combines *both* cognitive and motor skills training. 
 
 **Metrics of interest**
 <br> A service event is defined as the start of the customer order till order delivery by the participant. The basic metrics to determine the performance of the participant are: 
