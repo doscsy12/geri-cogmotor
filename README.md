@@ -14,6 +14,7 @@ All participants will undergo:
 1. initial assessment: play the exergame with zero haptic intervention (ie., no assistance, no challenge)
 2. trial period: play the exergame with haptic intervention (errorful/errorless mode)
 3. final assessment: play the exergame with zero haptic intervention
+
 <br> Initial and final assessments will be compared to determine any motor or cognitive improvements. 
 
 ### Aim
