@@ -12,9 +12,9 @@ In this study, participants were asked to play a computer game with the upper-li
 #### Protocol
 All participants will:
 1. play the exergame with zero haptic intervention (ie., no assistance, no challenge), also known as 'initial assessment'
-<br> 2. play the exergame with haptic intervention (errorful/errorless mode) (aka trial period)
-<br> 3. play the exergame with zero haptic intervention, also known as 'final assessment'
-<br> Initial and final assessments will be compared to determine any motor or cognitive improvements. 
+2. play the exergame with haptic intervention (errorful/errorless mode) (aka trial period)
+3. play the exergame with zero haptic intervention, also known as 'final assessment'
+Initial and final assessments will be compared to determine any motor or cognitive improvements. 
 
 ### Aim
 Thus, one objective here is to investigate the effect of a single haptic intervention in an exergame that combines *both* cognitive and motor skills training. 
