@@ -10,11 +10,11 @@ In this study, participants were asked to play a computer game with the upper-li
 - **motor** task in which the participant is required to navigate around the flower shop without colliding with shelves or objects placed throughout the shop.
 
 #### Protocol
-All participants will:
-1. play the exergame with zero haptic intervention (ie., no assistance, no challenge), also known as 'initial assessment'
-2. play the exergame with haptic intervention (errorful/errorless mode) (aka trial period)
-3. play the exergame with zero haptic intervention, also known as 'final assessment'
-Initial and final assessments will be compared to determine any motor or cognitive improvements. 
+All participants will undergo:
+1. initial assessment: play the exergame with zero haptic intervention (ie., no assistance, no challenge)
+2. trial period: play the exergame with haptic intervention (errorful/errorless mode)
+3. final assessment: play the exergame with zero haptic intervention
+<br> Initial and final assessments will be compared to determine any motor or cognitive improvements. 
 
 ### Aim
 Thus, one objective here is to investigate the effect of a single haptic intervention in an exergame that combines *both* cognitive and motor skills training. 
