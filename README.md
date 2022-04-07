@@ -31,7 +31,7 @@ Thus, one objective here is to investigate the effect of a single haptic interve
 |-------------------------|--------------|
 | extract_data_one        | extract data of one trial        |
 | extract_data_grp        | extract data and summarise across several trials of one patient        |
-| [Tableau](https://public.tableau.com/app/profile/sook.yee/viz/ARISE_GERI_sample_participant/Dashboard?publish=yes)        | sample dashboard of one participant      |
+| [Tableau](https://public.tableau.com/app/profile/sook.yee/viz/Dataofparticipant9/Dashboard1)     | sample dashboard of one participant      |
 
 
 
